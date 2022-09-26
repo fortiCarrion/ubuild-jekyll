@@ -70,9 +70,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: O Kit Slim Day é composto por 8 refeições
-  content: "<p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ul><li><p>5 sucos;</p></li><li><p>waffle
-    zero lactose;</p></li><li><p>pudim proteico;</p></li><li><p>sopa.</p></li></ul>"
+  content: "<p>Elaborado por nutricionista, o kit é composto por refeições ricas em
+    proténias, fibras e todos os nutrientes necessários da alimentação. <strong>Perca
+    até 2kg em 24horas.</strong></p><ul><li><p>5 sucos;</p></li><li><p>waffle zero
+    lactose;</p></li><li><p>pudim proteico;</p></li><li><p>sopa.</p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
