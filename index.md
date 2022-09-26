@@ -60,11 +60,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
+  headline: O Kit Slim Day é composto por 8 refeições
+  content: "- 5 sucos;<br>- waffle zero lactose;<br>- pudim proteico;<br>- sopa."
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
