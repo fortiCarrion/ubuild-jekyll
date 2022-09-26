@@ -13,8 +13,6 @@ page_sections:
     link_text: O que é
   - link: "#customize"
     link_text: Perca Peso
-  - link: "#responsive"
-    link_text: Kits
   - link: "#blocks"
     link_text: Depoimentos
   cta:
