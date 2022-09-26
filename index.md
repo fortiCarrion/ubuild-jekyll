@@ -55,11 +55,22 @@ page_sections:
   media:
     image: "/uploads/2022/09/26/slimday_image_2.jpg"
     alt_text: Customize Blocks
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2022/09/26/slimday_carrosel_1.png"
-  caption: Produtos incluídos no Kit
-  slug: blocks
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/26/slimday_carrosel_1.png"
+    caption: Day 1
+  image_2:
+    image: "/uploads/2022/09/26/slimday_carrosel_2.png"
+    caption: Day 2
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/26/slimday_carrosel_3.png"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 - template: detail-content
   block: text-1
   headline: O Kit Slim Day é composto por 8 refeições
@@ -70,13 +81,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/09/26/slimday_carrosel_1.png"
-    caption: example
-  image_2:
-    image: "/uploads/2022/09/26/slimday_carrosel_2.png"
-    caption: example 2
 
 ---
