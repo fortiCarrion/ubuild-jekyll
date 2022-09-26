@@ -86,6 +86,14 @@ page_sections:
   image_2:
     image: "/uploads/2022/09/26/slimday_carrosel_6.png"
     caption: Day 6
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/26/slimday_carrosel_7.png"
+    caption: Day 7
+  image_2:
+    image: "/uploads/2022/09/26/slimday_carrosel_8.png"
+    caption: Day 8
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Londrina - PR
