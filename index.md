@@ -10,13 +10,13 @@ page_sections:
   - link: "/"
     link_text: Sobre
   - link: "#swap"
-    link_text: Swap
+    link_text: O que é
   - link: "#customize"
-    link_text: Opções
+    link_text: Perca Peso
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Kits
   - link: "#blocks"
-    link_text: Blocks
+    link_text: Depoimentos
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Saiba mais
@@ -48,12 +48,13 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: "<strong>Phasellus vitae velit ultricies</strong>, elementum velit ut,
+    ornare sem. Nunc dolor arcu, volutpat nec egestas quis, fermentum sed lorem."
+  content: Duis in sollicitudin massa, nec hendrerit sapien. Praesent vehicula ipsum
+    et elit placerat, sit amet varius dolor maximus. In scelerisque lorem ligula,
+    a dapibus nisl venenatis eu.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2022/09/26/slimday_image_2.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
