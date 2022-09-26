@@ -37,12 +37,12 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit."
+  content: Suspendisse elementum elementum orci, eu ullamcorper sem commodo a. Cras
+    eget pulvinar lectus, vitae bibendum arcu. Nunc porttitor ornare lacinia. Aenean
+    a risus ac velit faucibus facilisis sed sit amet odio.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2022/09/26/slimday_image_image_2.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
