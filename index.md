@@ -37,10 +37,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit."
-  content: Suspendisse elementum elementum orci, eu ullamcorper sem commodo a. Cras
-    eget pulvinar lectus, vitae bibendum arcu. Nunc porttitor ornare lacinia. Aenean
-    a risus ac velit faucibus facilisis sed sit amet odio.
+  headline: "<strong>O que é ?</strong>"
+  content: O Slim Day é um programa de <strong>alimentação diária</strong> que contém
+    todas as refeições para fazer um Dia Magro.<br>Ou seja, com <strong>baixíssimas
+    calorias</strong> e muitos nutrientes que vão te ajudar a <strong>mandar embora
+    o inchaço e retenção de líquidos</strong>.
   media:
     image: "/uploads/2022/09/26/slimday_image_image_2.png"
     alt_text: uBuild Blocks Mock-Up
