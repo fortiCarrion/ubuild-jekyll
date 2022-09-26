@@ -57,8 +57,8 @@ page_sections:
     alt_text: Customize Blocks
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+  image: "/uploads/2022/09/26/slimday_carrosel_1.png"
+  caption: Produtos incluídos no Kit
   slug: blocks
 - template: detail-content
   block: text-1
