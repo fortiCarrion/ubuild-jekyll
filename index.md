@@ -70,19 +70,13 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: <img src="/uploads/2022/09/26/slimday_carrosel_1.png">
-    headline: Day 1
-    slug: Kit example
-  col_2:
-    content: <img src="/uploads/2022/09/26/slimday_carrosel_2.png">
-    headline: ''
-    slug: ''
-  col_3:
-    headline: ''
-    slug: ''
-    content: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/26/slimday_carrosel_1.png"
+    caption: example
+  image_2:
+    image: "/uploads/2022/09/26/slimday_carrosel_2.png"
+    caption: example 2
 
 ---
