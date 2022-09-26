@@ -30,7 +30,7 @@ page_sections:
     url: https://api.whatsapp.com/send?phone=5543999591616
     button_text: WhatsApp
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2022/09/26/slimday_image_hero.jpg"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
