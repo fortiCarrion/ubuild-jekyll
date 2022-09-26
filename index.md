@@ -55,6 +55,13 @@ page_sections:
   media:
     image: "/uploads/2022/09/26/slimday_image_2.jpg"
     alt_text: Customize Blocks
+- template: detail-content
+  block: text-1
+  headline: O Kit Slim Day é composto por 8 refeições
+  content: "<p>Elaborado por nutricionista, o kit é composto por refeições ricas em
+    proténias, fibras e todos os nutrientes necessários da alimentação. </p><ul><li><p>5
+    sucos;</p></li><li><p>waffle zero lactose;</p></li><li><p>pudim proteico;</p></li><li><p>sopa.</p></li></ul><h6><strong>Perca
+    até 2kg em 24horas.</strong></h6>"
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -71,15 +78,16 @@ page_sections:
   image_2:
     image: "/uploads/2022/09/26/slimday_carrosel_4.png"
     caption: Day 4
-- template: detail-content
-  block: text-1
-  headline: O Kit Slim Day é composto por 8 refeições
-  content: "<p>Elaborado por nutricionista, o kit é composto por refeições ricas em
-    proténias, fibras e todos os nutrientes necessários da alimentação. </p><ul><li><p>5
-    sucos;</p></li><li><p>waffle zero lactose;</p></li><li><p>pudim proteico;</p></li><li><p>sopa.</p></li></ul><h6><strong>Perca
-    até 2kg em 24horas.</strong></h6>"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/26/slimday_carrosel_5.png"
+    caption: Day 5
+  image_2:
+    image: "/uploads/2022/09/26/slimday_carrosel_6.png"
+    caption: Day 6
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ in Londrina - PR
 
 ---
