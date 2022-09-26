@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2022-09-15 00:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -23,13 +23,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Slim Day<br><strong>Londrina</strong>
+  content: Kits perfeitos para você desinchar e acelerar o metabolismo!
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://api.whatsapp.com/send?phone=5543999591616
+    button_text: WhatsApp
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
