@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/09/26/logo_navbas_slimday.png"
+  logo: "/uploads/2022/09/26/logo_navbas_slimday_2.png"
   navigation:
   - link: "/"
     link_text: Ubuild
