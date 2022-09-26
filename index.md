@@ -67,10 +67,10 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2022/09/26/slimday_carrosel_3.png"
-    caption: ''
+    caption: Day 3
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2022/09/26/slimday_carrosel_4.png"
+    caption: Day 4
 - template: detail-content
   block: text-1
   headline: O Kit Slim Day é composto por 8 refeições
