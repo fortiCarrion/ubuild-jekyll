@@ -45,11 +45,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: "<strong>Phasellus vitae velit ultricies</strong>, elementum velit ut,
-    ornare sem. Nunc dolor arcu, volutpat nec egestas quis, fermentum sed lorem."
+  headline: "<strong>Perca Peso</strong>"
   content: Duis in sollicitudin massa, nec hendrerit sapien. Praesent vehicula ipsum
     et elit placerat, sit amet varius dolor maximus. In scelerisque lorem ligula,
-    a dapibus nisl venenatis eu.
+    a dapibus nisl venenatis eu.<br><br>Siga-nos no <a href="https://www.instagram.com/londrinaslimday/"
+    title="Instragram">instagram </a>para mais detalhes.
   media:
     image: "/uploads/2022/09/26/slimday_image_2.jpg"
     alt_text: Customize Blocks
