@@ -24,7 +24,7 @@ page_sections:
   cta:
     enabled: true
     url: https://api.whatsapp.com/send?phone=5543999591616
-    button_text: WhatsApp
+    button_text: Eu quero!
   image:
     image: "/uploads/2022/09/26/slimday_image_hero.jpg"
     alt_text: Product Shot
