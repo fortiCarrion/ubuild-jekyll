@@ -13,10 +13,8 @@ page_sections:
     link_text: O que é
   - link: "#customize"
     link_text: Perca Peso
-  - link: "#blocks"
-    link_text: Depoimentos
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    url: https://api.whatsapp.com/send?phone=5543999591616
     button_text: Saiba mais
 - template: hero-banner-w-image
   block: hero-2
