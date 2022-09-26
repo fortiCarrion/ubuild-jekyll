@@ -57,9 +57,9 @@ page_sections:
   block: text-1
   headline: O Kit Slim Day é composto por 8 refeições
   content: "<p>Elaborado por nutricionista, o kit é composto por refeições ricas em
-    proténias, fibras e todos os nutrientes necessários da alimentação.</p><ul><li><p>5
-    sucos;</p></li><li><p>waffle zero lactose;</p></li><li><p>pudim proteico;</p></li><li><p>sopa.</p></li></ul><p></p><h5><strong>Perca
-    até 2kg em 24horas.</strong></h5>"
+    proténias, fibras e todos os nutrientes necessários da alimentação. <strong>Perca
+    até 2kg em 24horas.</strong></p><ul><li><p>5 sucos;</p></li><li><p>waffle zero
+    lactose;</p></li><li><p>pudim proteico;</p></li><li><p>sopa.</p></li></ul><p></p>"
 - template: 2-column-media-element
   block: media-2
   image_1:
