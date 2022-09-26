@@ -5,14 +5,14 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/09/26/logo_navbas_slimday_2.png"
+  logo: "/uploads/2022/09/26/slim_day_londrina-1.png"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: Sobre
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
-    link_text: Customize
+    link_text: Opções
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
