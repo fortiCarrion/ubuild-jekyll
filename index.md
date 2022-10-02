@@ -96,6 +96,12 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
+- template: 4-column-footer
+  block: footer-2
+  col_2: insta
+  col_3: whats
+  col_4: outro..
+  image: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Londrina - PR
