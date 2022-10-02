@@ -92,6 +92,10 @@ page_sections:
   image_2:
     image: "/uploads/2022/09/26/slimday_carrosel_8.png"
     caption: Day 8
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Londrina - PR
